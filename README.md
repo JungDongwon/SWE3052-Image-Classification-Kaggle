@@ -1,5 +1,5 @@
 # SWE3052-Image-Classification-Kaggle
-This repository is for final project done in SWE3052 Introduction to Deep Neural Network by Prof. Jongwook Lee in Spring 2021. The goal of the project is to build a machine learning model for image classification, where a few data are only labeled and most of the data are unlabeled. The competition was held in [Kaggle](https://www.kaggle.com/competitions/dnn2021ssl/overview)
+This repository is for final project done in SWE3052 Introduction to Deep Neural Network by Prof. Jongwook Lee in Spring 2021. The goal of the project is to build a semi-supervised machine learning model for image classification using Pytorch, where a few data are only labeled and most of the data are unlabeled. The competition was held in [Kaggle](https://www.kaggle.com/competitions/dnn2021ssl/overview)
 
 ## Implementation 
 ### Pseudo Labeling
